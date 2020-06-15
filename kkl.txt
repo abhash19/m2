@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="css\ref.css">
+	<title>
+		MY FIRST ASSIGNMENT!!!
+	</title>
+
+</head>
+<body>
+	<h1>Motivation for Life!!</h1>
+	<div id="box1">
+		<div class="top">
+			- Tori Murden
+		</div>
+		<p> “You have to chase your dreams, no matter what. The impossible just takes a little longer.One step at a time, the impossible is easy to achieve.” </p>
+	</div>
+
+	<div id="box2">
+		<div class="top">
+			– Barbara de Angelis
+		</div>
+		<p>“No one is in control of your happiness but you; therefore, you have the power to change anything about yourself or your life that you want to change.”</p>
+	</div>
+
+	<div id="box3">
+		<div class="top">
+			– Gautama Buddha
+		</div>
+		<p>“Conquer the angry one by not getting angry; conquer the wicked by goodness; conquer the stingy by generosity, and the liar by speaking the truth.” </p>
+	</div>
+
+
+</body>
+</html>

@@ -1,0 +1,3 @@
+npm install -g browser-sync
+browser-sync start --server --M3 "css/style.css"
+browser-sync start --proxy "myproject.dev" --files "css/*.css"
